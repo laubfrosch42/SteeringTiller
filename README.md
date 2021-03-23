@@ -1,7 +1,7 @@
 # SteeringTiller
 Steering-Tiller-Joystick for Flight Simulation
 
-![SteeringTiller_Picture](https://user-images.githubusercontent.com/49068518/112122608-c0d37f80-8bc0-11eb-8767-a4eb0d6473c1.png)
+![tiller_pre_post](https://user-images.githubusercontent.com/49068518/112165144-c47dfb00-8bee-11eb-9722-5a75712c00c4.png)
 
 In case of you are unhappy with the z-axis-rotation of your joystick as a steering tiller, this might be interesting for you.
 
@@ -38,6 +38,7 @@ See attached circuit and code and off you go.
 Have fun.
 
 ![circuit](https://user-images.githubusercontent.com/49068518/112126673-faa68500-8bc4-11eb-9324-812d3a93325c.png)
+![JJYOE1852](https://user-images.githubusercontent.com/49068518/112165198-cfd12680-8bee-11eb-8c25-5cdaf3532252.JPG)
 
 The potentiometer can have any value. it should be in the kOhm range to reduce current flow.
 The LED-resistors need to aligned with the colour of your LEDs. There are easy-to-use calculators in the net.
