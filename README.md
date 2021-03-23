@@ -45,7 +45,7 @@ Have fun.
 2. Plug-in your Leonardo or ProMicro to USB (ATmega32u4-chipset!!!)
 3. Install Arduino Integrated Development Environment (IDE)
 4. Install Joystick-Library from https://github.com/MHeironimus/ArduinoJoystickLibrary
-5. Upload the code (SteeringTiller.c copied into the IDE)
+5. Upload the code to the board (SteeringTiller.c copied into the IDE)
 6. Use Game-Controller-settings in Windows to calibrate
 7. Start your simulator and attach functions to the new joystick
 8. Cruise the airport up and down
