@@ -36,3 +36,14 @@ For me it made perfectly sense and The A320 feels even better now.
 
 See attached circuit and code and off you go.
 Have fun.
+
+# Mini-Instructions
+
+1. Solder as per schematic (circuit.png)
+2. Plug-in your Leonardo or ProMicro to USB
+3. Install Arduino Integrated Development Environment (IDE)
+4. Install Joystick-Library from https://github.com/MHeironimus/ArduinoJoystickLibrary
+5. Upload the code (SteeringTiller.c copied into the IDE)
+6. Use Game-Controller-settings in Windows to calibrate
+7. Start your simulator and attach functions to the new joystick
+8. Cruise the airport up and down
