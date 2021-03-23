@@ -38,6 +38,8 @@ See attached circuit and code and off you go.
 Have fun.
 
 ![circuit](https://user-images.githubusercontent.com/49068518/112126673-faa68500-8bc4-11eb-9324-812d3a93325c.png)
+The potentiometer can have any value. it should be in the kOhm range to reduce current flow.
+The resistors need to aligned with your LEDs. There are easy-to-use calculators in the net.
 
 # Mini-Instructions
 
