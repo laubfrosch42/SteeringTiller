@@ -40,7 +40,7 @@ Have fun.
 # Mini-Instructions
 
 1. Solder as per schematic (circuit.png)
-2. Plug-in your Leonardo or ProMicro to USB
+2. Plug-in your Leonardo or ProMicro to USB (ATmega32u4-chipset!!!)
 3. Install Arduino Integrated Development Environment (IDE)
 4. Install Joystick-Library from https://github.com/MHeironimus/ArduinoJoystickLibrary
 5. Upload the code (SteeringTiller.c copied into the IDE)
